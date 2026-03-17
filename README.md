@@ -27,7 +27,6 @@ Validated on **777,592 Bitcoin ticks** (Binance, 2023 1-min OHLCV) deployed on a
 * **Timing:** Closed at 100 MHz with +0.183ns Worst Negative Slack (WNS)
 
 ## 🧠 System Architecture
-*(Upload your `System_Architecture.png` to the repo and it will display here)*
 ![System Architecture](System_Architecture.png)
 
 The system utilizes a Path-Selective Synchroniser. Rather than waiting for the volatility trigger sequentially, the Trigger Compute, LR Feature Extractor, and MLP Feature Extractor execute in parallel immediately upon receiving a valid 60-tick window.
