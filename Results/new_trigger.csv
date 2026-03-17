@@ -1,0 +1,3 @@
+MODULES & LOOPS,LATENCY(NS),ITERATION LATENCY,INTERVAL,TRIP COUNT,PIPELINED,STRUCTURE,BRAM,DSP,FF,LUT,URAM
+compute_trigger (1),930.000,,94,,no,function,0,0,"1,419",819,0
+compute_trigger_Pipeline_VITIS_LOOP_21_1 (1),610.000,,59,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,59,415,0

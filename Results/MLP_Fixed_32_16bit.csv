@@ -1,0 +1,8 @@
+MODULES & LOOPS,ISSUE,SLACK,LATENCY(NS),ITERATION LATENCY,INTERVAL,TRIP COUNT,PIPELINED,STRUCTURE,BRAM,DSP,FF,LUT,URAM
+myproject (6),,-2.52,850.000,,32,,dataflow,function,8,13,"8,735","9,311",0
+dense_resource_rf_gt_nin_rem0_ap_fixed_ap_fixed_16_6_5_3_0_config2_s (1),,-2.52,300.000,,26,,loop rewind stp (delay=0 clock cycles(s)),function,4,8,"1,791","2,424",0
+relu_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_relu_config3_s,,,0.0,,1,,yes,function,0,0,242,763,0
+dense_resource_rf_gt_nin_rem0_ap_fixed_ap_fixed_16_6_5_3_0_config5_s (1),,-2.52,360.000,,32,,loop rewind stp (delay=0 clock cycles(s)),function,2,4,"1,277","1,782",0
+relu_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_relu_config6_s,,,0.0,,1,,yes,function,0,0,122,387,0
+dense_resource_rf_leq_nin_ap_fixed_ap_fixed_16_6_5_3_0_config7_s (1),,,110.000,,8,,loop rewind stp (delay=0 clock cycles(s)),function,1,1,393,435,0
+sigmoid_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_sigmoid_config8_s,,,30.000,,1,,yes,function,1,0,55,134,0

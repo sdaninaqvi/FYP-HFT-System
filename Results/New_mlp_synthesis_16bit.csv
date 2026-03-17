@@ -1,0 +1,8 @@
+MODULES & LOOPS,LATENCY(NS),INTERVAL,PIPELINED,STRUCTURE,BRAM,DSP,FF,LUT,URAM
+myproject (6),180.000,1,yes,function,1,224,"8,353","11,724",0
+dense_latency_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_config2_s,30.000,1,yes,function,0,121,"4,195","6,550",0
+relu_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_relu_config3_s,0.0,1,yes,function,0,0,0,608,0
+dense_latency_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_config5_s,40.000,1,yes,function,0,95,"3,113","3,897",0
+relu_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_relu_config6_s,0.0,1,yes,function,0,0,0,304,0
+dense_latency_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_config7_s,30.000,1,yes,function,0,8,401,203,0
+sigmoid_ap_fixed_16_6_5_3_0_ap_fixed_16_6_5_3_0_sigmoid_config8_s,20.000,1,yes,function,1,0,14,114,0

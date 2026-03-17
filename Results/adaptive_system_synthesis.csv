@@ -1,0 +1,4 @@
+MODULES & LOOPS,LATENCY(NS),ITERATION LATENCY,INTERVAL,TRIP COUNT,PIPELINED,STRUCTURE,BRAM,DSP,FF,LUT,URAM
+adaptive_system (2),610.000,,62,,no,function,2,9,"1,415","1,627",0
+adaptive_system_Pipeline_VITIS_LOOP_71_2 (1),120.000,,11,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,40,112,0
+adaptive_system_Pipeline_VITIS_LOOP_39_1 (1),70.000,,6,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,72,224,0

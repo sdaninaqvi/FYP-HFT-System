@@ -1,0 +1,8 @@
+MODULES & LOOPS,LATENCY(NS),ITERATION LATENCY,INTERVAL,TRIP COUNT,PIPELINED,STRUCTURE,BRAM,DSP,FF,LUT,URAM
+compute_f13 (6),1.950E3,,196,,no,function,0,9,"3,337","3,873",0
+compute_f13_Pipeline_VITIS_LOOP_17_1 (1),120.000,,11,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,40,160,0
+compute_f13_Pipeline_VITIS_LOOP_28_2 (1),120.000,,11,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,24,96,0
+compute_f13_Pipeline_VITIS_LOOP_35_3 (1),280.000,,27,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,42,160,0
+compute_f13_Pipeline_VITIS_LOOP_49_4 (1),300.000,,29,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,65,266,0
+compute_f13_Pipeline_VITIS_LOOP_60_5 (1),220.000,,21,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,0,25,98,0
+compute_f13_Pipeline_VITIS_LOOP_66_6 (1),250.000,,21,,loop pipeline stpstp (delay=0 clock cycles(s)),function,0,1,112,139,0
